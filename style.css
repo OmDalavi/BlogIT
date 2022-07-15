@@ -1,0 +1,31 @@
+.title{
+	font-size: 28px;
+}
+.intro-para{
+	font-size: 18px;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+.login-form{
+	text-align: center;
+}
+.writer-heading{
+	font-size: 24px;
+}
+.writers-table{
+	font-size: 20px;
+}
+.namedate{
+	font-size: 25px;
+}
+.blog{
+	overflow-wrap:break-word;
+	width:70%;
+}
+@media(max-width: 800px){
+	.blog{
+		width: 90%;
+	}
+}

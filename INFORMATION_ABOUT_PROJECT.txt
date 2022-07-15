@@ -1,0 +1,24 @@
+Database used - MySQL 
+Database handler - PhpMyAdmin
+languages - HTML,CSS,Javascript,PHP
+frameworks -Bootstrap,jQuery
+Plug-in used - Dataset
+
+Hosting Info :
+Host : app.infinityfree.net
+Database Host : freemysqlhosting.net
+
+DATABASE Information :
+	Servername: sql6.freemysqlhosting.net
+	Database Name: sql6440524
+	Username: sql6440524
+	Password: mF1vtrwrr2
+	Port number: 3306
+
+WebPage Hosting Information :
+	https://app.infinityfree.net
+		hosting account info
+			Username: epiz_29881893
+			Password : GyRSyEHJj1gH9
+
+Website Link : http://noteset.42web.io/index.php
